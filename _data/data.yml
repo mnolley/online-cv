@@ -77,8 +77,8 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Bachelor of Science in Software Engineering
+      university: University of Nebraska-Lincoln
       time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -88,9 +88,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: High School Diploma
+      university: Lincoln Southwest High School
+      time: 2018-2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -100,9 +100,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Student-Athlete, Cross Country/Track & Field
+      time: August 2020-
+      company: University of Nebraska-Lincoln
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -113,7 +113,9 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
+          - Balance and manage academic and athletic responsibilities, taking up
+            to 16 credit hours a semester and investing 20+ hours a week in Track
+            and field related activities.
           - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
